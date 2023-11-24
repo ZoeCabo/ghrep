@@ -7,7 +7,8 @@ public static void main(String [] args) {
 	
 	
 	System.out.println("ya se usar git");
-
+String mivariable;
+String mientero;
 }
 
 }
