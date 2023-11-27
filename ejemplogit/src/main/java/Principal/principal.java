@@ -12,6 +12,7 @@ String mivariable;
 String mientero;
 
 System.out.println("ya se usar github");
+	String variable="string definido en github";
 }
 
 }
